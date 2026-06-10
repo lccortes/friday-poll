@@ -12,10 +12,15 @@ payload = {
     "message": "Automation Test - What's the plan for Friday? 🙏",
     "multipleAnswers": True,
     "options": [
-        {"optionName": "🍞 Bread"},
-        {"optionName": "🍷 Wine"},
-        {"optionName": "📖 1st reading"},
-        {"optionName": "📖 2nd reading"},
+        {"optionName": "📖 1st Reading"},
+        {"optionName": "🎵 Psalm"},
+        {"optionName": "📖 2nd Reading + Acclamation"},
+        {"optionName": "Bread"},
+        {"optionName": "Wine"},
+        {"optionName": "Body 1"},
+        {"optionName": "Blood 1"},
+        {"optionName": "Blood 2"},
+        {"optionName": "📢 Announcements"},
     ]
 }
 
