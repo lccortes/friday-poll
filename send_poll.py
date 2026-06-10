@@ -10,7 +10,7 @@ url = f"https://api.green-api.com/waInstance{INSTANCE_ID}/sendPoll/{API_TOKEN}"
 payload = {
     "chatId": CHAT_ID,
     "message": "What's the plan for Friday? 🙏",
-    "multipleAnswers": False,
+    "multipleAnswers": True,
     "options": [
         {"optionName": "🍞 Bread"},
         {"optionName": "🍷 Wine"},
