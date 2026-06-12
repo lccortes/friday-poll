@@ -2,7 +2,7 @@ name: Friday Poll
 
 on:
   schedule:
-    - cron: '13 8 * * 5'  # Every Friday at 14:00 Copenhagen time (UTC+2)
+    - cron: '50 10 * * 5'  # Every Friday at 14:00 Copenhagen time (UTC+2)
   workflow_dispatch:       # Also allows manual trigger for testing
 
 jobs:
