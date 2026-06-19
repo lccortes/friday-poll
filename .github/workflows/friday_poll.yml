@@ -2,7 +2,7 @@ name: Friday Poll
 
 on:
   schedule:
-    - cron: '12 08 * * 5'
+    - cron: '12 08 * * 5'  
   workflow_dispatch:       # Also allows manual trigger for testing
 
 jobs:
